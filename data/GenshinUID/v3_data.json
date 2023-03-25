@@ -1,0 +1,133 @@
+{
+  "bot_id": "onebot",
+  "bind": [
+    {
+      "bot_id": "onebot",
+      "user_id": "173934284",
+      "uid": "130240339",
+      "mys_id": "None"
+    },
+    {
+      "bot_id": "onebot",
+      "user_id": "583625087",
+      "uid": "246278510_184283752",
+      "mys_id": "None"
+    },
+    {
+      "bot_id": "onebot",
+      "user_id": "983407665",
+      "uid": "250072304",
+      "mys_id": "None"
+    },
+    {
+      "bot_id": "onebot",
+      "user_id": "1316957934",
+      "uid": "500935578",
+      "mys_id": "None"
+    },
+    {
+      "bot_id": "onebot",
+      "user_id": "1976473767",
+      "uid": "184283752",
+      "mys_id": "None"
+    },
+    {
+      "bot_id": "onebot",
+      "user_id": "2412871611",
+      "uid": "111334024",
+      "mys_id": "None"
+    },
+    {
+      "bot_id": "onebot",
+      "user_id": "2559168031",
+      "uid": "234477538_196005291",
+      "mys_id": "None"
+    },
+    {
+      "bot_id": "onebot",
+      "user_id": "2899956566",
+      "uid": "112841728",
+      "mys_id": "None"
+    }
+  ],
+  "user": [
+    {
+      "bot_id": "onebot",
+      "user_id": 173934284,
+      "region": "cn_gf01",
+      "stoken": "stuid=218637102;stoken=v2_VsjmVIyhcXGhvkq0F4t2Is4SUIiTKus66ik4i-04i3XaIpQK-53cLctzrZnPVXZIUnWZuow_Th7DVvPzlU-r7NA3DVm_NIcpxrpR1k9Yd7HFY0Q=;mid=0s39u9c6fr_mhy",
+      "cookie": "account_id=218637102;cookie_token=a8dgQw7SYGSqpEb9iBn676DtmwIFJHaIxkjsExMI",
+      "mys_id": "218637102",
+      "uid": "130240339",
+      "push_switch": "off",
+      "sign_switch": "480193020",
+      "bbs_switch": "off",
+      "status": null
+    },
+    {
+      "bot_id": "onebot",
+      "user_id": 583625087,
+      "region": "cn_gf01",
+      "stoken": "stuid=343625402;stoken=fH1JAFXRHr1k2wG3V6LFY8DxnDJ2Rcge1BXOFBai",
+      "cookie": "account_id=343625402;cookie_token=bAuCZuFhgtGr0hZe25mRIAsp8ffjmWpfGs6Bt9p3",
+      "mys_id": "343625402",
+      "uid": "246278510",
+      "push_switch": "off",
+      "sign_switch": "480193020",
+      "bbs_switch": "on",
+      "status": null
+    },
+    {
+      "bot_id": "onebot",
+      "user_id": 1976473767,
+      "region": "cn_gf01",
+      "stoken": "stuid=284653268;stoken=v2_lQP4rG6fA8syqLR8D7ijJ5-kGJvaEY4dslYuR86JiuLwHfMQ9_4TWdLtkqa4X9MZrKYaHV-r0jQFOvRSDg1HLwBPKuIZNuJVjI6mxTztmkjHxHD5;mid=0vmogl5uyy_mhy",
+      "cookie": "account_id=284653268;cookie_token=lIUK50jejmpWeuHFeIsITvQVKgeHiNgONnkMpWul",
+      "mys_id": "284653268",
+      "uid": "184283752",
+      "push_switch": "off",
+      "sign_switch": "480193020",
+      "bbs_switch": "off",
+      "status": null
+    },
+    {
+      "bot_id": "onebot",
+      "user_id": 1316957934,
+      "region": "cn_qd01",
+      "stoken": "stuid=254324471;stoken=v2_13c44jOUuXtg4Jgc7YPYagcOPN5jVVFIko29EA6lvIPwqRp-aqkYHWBrqAPCpBWLIe8BTn0b14kQ9YhooAXi7x-EuhGhuNaay3iCXPIdNXbAxGo=;mid=0ip66wptsf_mhy",
+      "cookie": "account_id=254324471;cookie_token=qJW997wBo9XwWKziNPljTeqqK17V6rCVHCdsOHvw",
+      "mys_id": "254324471",
+      "uid": "500935578",
+      "push_switch": "off",
+      "sign_switch": "480193020",
+      "bbs_switch": "off",
+      "status": null
+    },
+    {
+      "bot_id": "onebot",
+      "user_id": 2412871611,
+      "region": "cn_gf01",
+      "stoken": "stuid=186175834;stoken=v2_pFgkDsnFmi1ZOnZb1kUggBSoJARyOlavhTdlNXSipZ_tt47KcT8q-IVxgjjMVtPfhMSHxsTJ_PWNoSPDLUpXEXZ-1EgKIbYmqiwgvRRZOwSDsWI=;mid=0kjcvc1zyr_mhy",
+      "cookie": "account_id=186175834;cookie_token=EhieeW40nZQ6SGZNRU2MhfmTIfBHqG11fxOUSdZS",
+      "mys_id": "186175834",
+      "uid": "111334024",
+      "push_switch": "off",
+      "sign_switch": "480193020",
+      "bbs_switch": "off",
+      "status": null
+    },
+    {
+      "bot_id": "onebot",
+      "user_id": 2559168031,
+      "region": "cn_gf01",
+      "stoken": "stuid=330290220;stoken=v2_G3gEZvPZ-K0w9tjERp4K_-QeeZtCkXx5UwU6WtaUP8rx_2XooxmcQId5GHqtFM8VXlGIsZcoF0kjAKZi28gRVHv63MOpjIMXsa1APOIZHwcu6xUp;mid=0c9c8ktegq_mhy",
+      "cookie": "account_id=330290220;cookie_token=MYFS9xIJCmdLtQVFAJYIuz96yOqCDZEhvFsgiqAR",
+      "mys_id": "330290220",
+      "uid": "234477538",
+      "push_switch": "off",
+      "sign_switch": "480193020",
+      "bbs_switch": "off",
+      "status": null
+    }
+  ]
+}

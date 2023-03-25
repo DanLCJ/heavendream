@@ -1,0 +1,328 @@
+GenshinUID:
+  group: {}
+  mode: '311'
+  status: false
+  user: {}
+autoreply:
+  group:
+    371985378: 5
+    1136080747: 5
+  mode: '755'
+  status: true
+  user: {}
+config:
+  group: {}
+  mode: '311'
+  status: false
+  user: {}
+countdown:
+  group:
+    371985378: 5
+  mode: '755'
+  status: true
+  user: {}
+daily_mad:
+  group:
+    371985378: 5
+    480193020: 5
+    1136080747: 5
+  mode: '755'
+  status: true
+  user: {}
+echo:
+  group:
+    371985378: 5
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_abyss:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_achievement:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_adv:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_ann:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_check:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_collection:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_config:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_enka:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_etcimg:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_eventlist:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_gachalog:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_gcg:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_guide:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_help:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_map:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_meta:
+  group: {}
+  mode: '311'
+  status: false
+  user: {}
+genshinuid_mhybbscoin:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_mys:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_note:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_resin:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_resource:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_roleinfo:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_signin:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_update:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_user:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_webconsole:
+  group: {}
+  mode: '311'
+  status: false
+  user: {}
+genshinuid_wikitext:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+genshinuid_xkdata:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+group_forward:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+group_nickname:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+intercept_withdraw:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+join_and_leave:
+  group:
+    371985378: 5
+  mode: '755'
+  status: true
+  user: {}
+nonebot_plugin_apscheduler:
+  group: {}
+  mode: '311'
+  status: false
+  user: {}
+nonebot_plugin_bilibilibot:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+nonebot_plugin_manager:
+  group: {}
+  mode: '311'
+  status: false
+  user: {}
+qweather_api:
+  group:
+    371985378: 5
+  mode: '755'
+  status: true
+  user: {}
+rollthedice:
+  group:
+    371985378: 5
+  mode: '755'
+  status: true
+  user: {}
+scheduler_3pm:
+  group: {}
+  mode: '311'
+  status: false
+  user: {}
+tiangou:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '311'
+  status: false
+  user: {}
+update_instruction:
+  group:
+    371985378: 5
+    1136080747: 4
+  mode: '755'
+  status: true
+  user: {}
+version:
+  group: {}
+  mode: '311'
+  status: false
+  user: {}
+wishecho:
+  group:
+    371985378: 5
+  mode: '755'
+  status: true
+  user: {}
+x5check:
+  group:
+    371985378: 5
+    1136080747: 5
+  mode: '755'
+  status: true
+  user: {}
+x5check_hard:
+  group:
+    371985378: 5
+  mode: '755'
+  status: true
+  user: {}
